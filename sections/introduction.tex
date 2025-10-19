@@ -4,18 +4,21 @@ Fiscal policy decisions, such as adjusting Value Added Tax (VAT), are among the 
 
 \subsection{Background \& Motivation}\label{subsec:background}
 
-VAT plays a central role in \textbf{macroeconomic} and \textbf{fiscal management}, particularly in developing and emerging economies. Unlike income taxes, VAT can be applied broadly and collected efficiently, making it a key instrument for raising government revenue, maintaining budgetary discipline, and funding social programs. However, its effects are not neutral: VAT increases may lead to inflationary pressure, reduced consumption, and adverse welfare effects---especially on lower-income populations.
+\section{Background and Motivation}
 
-To assess such trade-offs, policymakers have traditionally relied on \textbf{econometric methods} such as Ordinary Least Squares (OLS), Difference-in-Differences (DiD), and Vector Autoregression (VAR). While these tools have been foundational in empirical economics, they suffer from significant limitations:
+Fiscal policy, such as Value-Added Tax (VAT), plays a central role in macroeconomic and fiscal management, particularly in developing and emerging economies. Unlike income taxes, VAT can be applied broadly and collected efficiently, making it a key instrument for raising government revenue, maintaining budgetary discipline, and funding social programs. However, its effects are not neutral: VAT increases may lead to inflationary pressure, reduced consumption, and adverse welfare effects—especially on lower-income populations.
+
+To assess such trade-offs, policymakers have traditionally relied on econometric methods such as Ordinary Least Squares (OLS), Difference-in-Differences (DiD), and Vector Autoregression (VAR). While these tools have been foundational in empirical economics, they suffer from significant limitations:
 
 \begin{itemize}
-    \item \textbf{Strong parametric assumptions} (e.g., linearity, homoscedasticity) that may not reflect complex real-world dynamics.
-    \item \textbf{Limited capacity} to handle high-dimensional or non-linear confounding structures in observational data.
-    \item \textbf{Weak generalization} beyond the observed data, making it difficult to forecast under novel policy conditions.
-    \item \textbf{Insufficient granularity}, especially in detecting heterogeneous effects across different socioeconomic groups.
+  \item Strong parametric assumptions (e.g., linearity, homoscedasticity) that may not reflect complex real-world dynamics \citep{hellwig2021predicting}.
+  \item Limited capacity to handle high-dimensional or non-linear confounding structures in observational data \citep{vallarino2024machine}.
+  \item Weak generalization beyond the observed data, making it difficult to forecast under novel policy conditions \citep{idb2024ai}.
+  \item Insufficient granularity, especially in detecting heterogeneous effects across different socioeconomic groups \citep{wager2019causal}.
 \end{itemize}
 
 These constraints reduce the reliability of counterfactual estimates derived from traditional models and limit their usefulness in policy design, especially in contexts requiring precise targeting and risk minimization.
+
 
 \subsection{Research Question}\label{subsec:research_question}
 

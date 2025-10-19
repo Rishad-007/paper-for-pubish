@@ -17,45 +17,45 @@ Warning--I didn't find a database entry for "imf2023"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty journal in bolarindwa2023vat
 Warning--empty journal in ndlovu2024vat
-You've used 31 entries,
+You've used 35 entries,
             3168 wiz_defined-function locations,
-            779 strings with 8306 characters,
-and the built_in function-call counts, 9291 in all, are:
-= -- 855
-> -- 422
-< -- 32
-+ -- 148
-- -- 113
-* -- 599
-:= -- 1817
-add.period$ -- 60
-call.type$ -- 31
-change.case$ -- 131
-chr.to.int$ -- 22
-cite$ -- 33
-duplicate$ -- 431
-empty$ -- 748
-format.name$ -- 159
-if$ -- 1872
+            799 strings with 8916 characters,
+and the built_in function-call counts, 10502 in all, are:
+= -- 962
+> -- 480
+< -- 36
++ -- 167
+- -- 129
+* -- 672
+:= -- 2051
+add.period$ -- 64
+call.type$ -- 35
+change.case$ -- 148
+chr.to.int$ -- 26
+cite$ -- 37
+duplicate$ -- 489
+empty$ -- 844
+format.name$ -- 182
+if$ -- 2118
 int.to.chr$ -- 10
 int.to.str$ -- 0
-missing$ -- 10
-newline$ -- 130
-num.names$ -- 124
-pop$ -- 117
+missing$ -- 13
+newline$ -- 142
+num.names$ -- 140
+pop$ -- 137
 preamble$ -- 1
-purify$ -- 129
+purify$ -- 146
 quote$ -- 0
-skip$ -- 317
+skip$ -- 365
 stack$ -- 0
-substring$ -- 231
+substring$ -- 272
 swap$ -- 18
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 279
+type$ -- 315
 warning$ -- 2
-while$ -- 95
+while$ -- 108
 width$ -- 0
-write$ -- 354
+write$ -- 392
 (There were 8 warnings)

@@ -53,6 +53,12 @@ Heckman, J.~J. 2008{\natexlab{a}}, National Bureau of Economic Research.
 ---. 2008{\natexlab{b}}, National Bureau of Economic Research.
 \newblock \url{https://blogs.kent.ac.uk/jonw/files/2015/03/Heckman-08-Econometric-causality.pdf}
 
+\bibitem[{Hellwig(2021)}]{hellwig2021predicting}
+Hellwig, C. 2021, IMF Working Paper
+
+\bibitem[{{Inter-American Development Bank}(2024)}]{idb2024ai}
+{Inter-American Development Bank}. 2024, Artificial Intelligence in Fiscal Policymaking, \url{https://blogs.iadb.org/gestion-fiscal/en/ai-to-transform-macroeconomic-and-fiscal-policymaking/}
+
 \bibitem[{{International Monetary Fund}(2023{\natexlab{a}})}]{imf2023ai}
 {International Monetary Fund}. 2023{\natexlab{a}}, AI and Macroeconomic Modeling: Deep Reinforcement Learning in an RBC model.
 \newblock \url{https://www.elibrary.imf.org/view/journals/001/2023/040/article-A001-en.xml}
@@ -119,6 +125,12 @@ Singh, S.~N. 2019, Financial Markets, Institutions and Risks, 3, 62.
 \bibitem[{Statistics(2025)}]{bds2025}
 Statistics, B.~D. 2025, BDS: Firm Dynamics Data.
 \newblock \url{https://www.census.gov/programs-surveys/bds.html}
+
+\bibitem[{Vallarino(2024)}]{vallarino2024machine}
+Vallarino, J. 2024, arXiv preprint arXiv:2410.00002
+
+\bibitem[{Wager \& Athey(2019)}]{wager2019causal}
+Wager, S., \& Athey, S. 2019, Journal of the American Statistical Association, 113, 1228
 
 \bibitem[{{World Bank}(2024)}]{WorldBankWDI2024}
 {World Bank}. 2024, World Development Indicators, April 2024.
