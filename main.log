@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.9.16)  20 OCT 2025 02:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.9.16)  20 OCT 2025 02:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/main.tex
-(/Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/main.tex
+**"/Users/rishad/Downloads/restart defence/for publish/thesis/main.tex"
+(/Users/rishad/Downloads/restart defence/for publish/thesis/main.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -650,20 +650,7 @@ Package pdftex.def Info: images/BRUR_Logo.png  used on input line 12.
 
 [1
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/BRUR_Logo.png>]
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.87 \newpage
-              [1]
-
-[2]
-
-[3]
-
-[4]) (./sections/abstract.tex
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/BRUR_Logo.png>]) (./sections/abstract.tex
 LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -678,27 +665,32 @@ Overfull \hbox (3.38057pt too wide) in paragraph at lines 6--7
 
 )
 
-[5] (./main.toc
 
-[6])
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.86 \newpage
+              [1] (./main.toc
+
+[2])
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
 
 
-[7] (./main.lof)
+[3] (./main.lof)
 \tf@lof=\write8
 \openout8 = `main.lof'.
 
 
 
-[8] (./main.lot)
+[4] (./main.lot)
 \tf@lot=\write9
 \openout9 = `main.lot'.
 
 
 
-[9]
+[5]
 
 [1
 
@@ -753,7 +745,7 @@ Package natbib Warning: Citation `imf2023' on page 12 undefined on input line 7.
 [12
 
 ]
-<images/dataacq.png, id=753, 873.2625pt x 1846.9pt>
+<images/dataacq.png, id=735, 873.2625pt x 1846.9pt>
 File: images/dataacq.png Graphic file (type png)
 <use images/dataacq.png>
 Package pdftex.def Info: images/dataacq.png  used on input line 43.
@@ -772,7 +764,7 @@ Overfull \hbox (74.73364pt too wide) in paragraph at lines 53--54
 [15]
 
 [16]
-<images/wholedata.png, id=778, 1905.1175pt x 2360.82pt>
+<images/wholedata.png, id=761, 1905.1175pt x 2360.82pt>
 File: images/wholedata.png Graphic file (type png)
 <use images/wholedata.png>
 Package pdftex.def Info: images/wholedata.png  used on input line 189.
@@ -788,7 +780,7 @@ Package pdftex.def Info: images/wholedata.png  used on input line 189.
 [20
 
 ] (./sections/methodology.tex
-<images/modelplan.png, id=805, 1541.76pt x 1027.84pt>
+<images/modelplan.png, id=789, 1541.76pt x 1027.84pt>
 File: images/modelplan.png Graphic file (type png)
 <use images/modelplan.png>
 Package pdftex.def Info: images/modelplan.png  used on input line 13.
@@ -798,7 +790,7 @@ Package pdftex.def Info: images/modelplan.png  used on input line 13.
 [21
 
  <./images/modelplan.png (PNG copy)>]
-<figures/dml_analysis_results.png, id=811, 1148.6112pt x 858.8085pt>
+<figures/dml_analysis_results.png, id=794, 1148.6112pt x 858.8085pt>
 File: figures/dml_analysis_results.png Graphic file (type png)
 <use figures/dml_analysis_results.png>
 Package pdftex.def Info: figures/dml_analysis_results.png  used on input line 33.
@@ -806,7 +798,7 @@ Package pdftex.def Info: figures/dml_analysis_results.png  used on input line 33
 
 
 [22 <./figures/dml_analysis_results.png>]
-<figures/lstm.jpg, id=818, 1495.5875pt x 491.8375pt>
+<figures/lstm.jpg, id=801, 1495.5875pt x 491.8375pt>
 File: figures/lstm.jpg Graphic file (type jpg)
 <use figures/lstm.jpg>
 Package pdftex.def Info: figures/lstm.jpg  used on input line 55.
@@ -814,7 +806,7 @@ Package pdftex.def Info: figures/lstm.jpg  used on input line 55.
 
 
 [23 <./figures/lstm.jpg>]
-<figures/causal_forest_results.png, id=832, 1148.3703pt x 858.8085pt>
+<figures/causal_forest_results.png, id=815, 1148.3703pt x 858.8085pt>
 File: figures/causal_forest_results.png Graphic file (type png)
 <use figures/causal_forest_results.png>
 Package pdftex.def Info: figures/causal_forest_results.png  used on input line 95.
@@ -829,12 +821,12 @@ Overfull \hbox (3.12709pt too wide) in paragraph at lines 144--145
 
 
 [25]
-<figures/hybrid_policy_analysis_comprehensive.png, id=845, 1438.4139pt x 1147.8885pt>
+<figures/hybrid_policy_analysis_comprehensive.png, id=828, 1438.4139pt x 1147.8885pt>
 File: figures/hybrid_policy_analysis_comprehensive.png Graphic file (type png)
 <use figures/hybrid_policy_analysis_comprehensive.png>
 Package pdftex.def Info: figures/hybrid_policy_analysis_comprehensive.png  used on input line 155.
 (pdftex.def)             Requested size: 483.69687pt x 385.98567pt.
-</Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/images/wholestructure.png, id=846, 1662.21pt x 1967.35pt>
+</Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/images/wholestructure.png, id=829, 1662.21pt x 1967.35pt>
 File: /Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/images/wholestructure.png Graphic file (type png)
 <use /Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/images/wholestructure.png>
 Package pdftex.def Info: /Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/images/wholestructure.png  used on input line 162.
@@ -848,7 +840,7 @@ Package pdftex.def Info: /Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/
 [28
 
 ] (./sections/results.tex
-</Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/economic_data_overview.png, id=863, 1143.3114pt x 854.2314pt>
+</Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/economic_data_overview.png, id=846, 1143.3114pt x 854.2314pt>
 File: /Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/economic_data_overview.png Graphic file (type png)
 <use /Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/economic_data_overview.png>
 Package pdftex.def Info: /Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/economic_data_overview.png  used on input line 17.
@@ -1039,7 +1031,7 @@ Overfull \hbox (53.56612pt too wide) in paragraph at lines 72--82
  [][] 
  []
 
-</Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/final_policy_impact_analysis.png, id=878, 1149.3339pt x 857.3631pt>
+</Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/final_policy_impact_analysis.png, id=861, 1149.3339pt x 857.3631pt>
 File: /Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/final_policy_impact_analysis.png Graphic file (type png)
 <use /Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/final_policy_impact_analysis.png>
 Package pdftex.def Info: /Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/final_policy_impact_analysis.png  used on input line 94.
@@ -1156,7 +1148,7 @@ Overfull \hbox (60.27008pt too wide) in paragraph at lines 110--131
 [32 </Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/final_policy_impact_analysis.png>]
 
 [33]
-</Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/figure3_hybrid_model_results.png, id=897, 1143.0705pt x 822.4326pt>
+</Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/figure3_hybrid_model_results.png, id=880, 1143.0705pt x 822.4326pt>
 File: /Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/figure3_hybrid_model_results.png Graphic file (type png)
 <use /Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/figure3_hybrid_model_results.png>
 Package pdftex.def Info: /Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/figure3_hybrid_model_results.png  used on input line 176.
@@ -1265,18 +1257,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 3C88284E4B333FACE9A66CB0609B7389;15422.
  ) 
 Here is how much of TeX's memory you used:
- 21726 strings out of 473190
- 450803 string characters out of 5715800
+ 21720 strings out of 473190
+ 450701 string characters out of 5715800
  849993 words of memory out of 5000000
- 44408 multiletter control sequences out of 15000+600000
+ 44406 multiletter control sequences out of 15000+600000
  570555 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,123p,1263b,1181s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,123p,1262b,1181s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (60 pages, 5179891 bytes).
+Output written on main.pdf (56 pages, 5175279 bytes).
 PDF statistics:
- 1182 PDF objects out of 1200 (max. 8388607)
- 1053 compressed objects within 11 object streams
- 259 named destinations out of 1000 (max. 500000)
+ 1165 PDF objects out of 1200 (max. 8388607)
+ 1040 compressed objects within 11 object streams
+ 255 named destinations out of 1000 (max. 500000)
  701 words of extra memory for PDF output out of 10000 (max. 10000000)
 
