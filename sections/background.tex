@@ -1,0 +1,21 @@
+\section{Background Study}\label{sec:background}
+Fiscal policy is a cornerstone of macroeconomic management, with Value-Added Tax (VAT) playing a critical role, especially in developing and emerging economies. VAT is a consumption tax levied incrementally at each stage of production and distribution, ultimately borne by the final consumer. Its broad tax base and efficient collection mechanisms make it a vital source of government revenue and a key instrument for public finance and macroeconomic stabilization \citep[see section 1.1]{main}.
+
+However, VAT changes induce complex economic effects such as inflationary pressures, consumption shifts, and distributional impacts, particularly affecting lower-income groups \citep[section 1.1]{main}.
+
+\subsection*{Traditional Econometric Approaches to Policy Analysis}
+Economists traditionally use structural econometric models such as Ordinary Least Squares (OLS), Difference-in-Differences (DiD), and Instrumental Variables (IV) to estimate the causal impact of policy interventions including VAT adjustments \citep[section 2.1]{main}. These models rely on assumptions like linearity and exogeneity and are valued for their interpretability and theoretical grounding \citep{heckman2008, heckman2023}. However, they face notable limitations in high-dimensional or nonlinear settings common in modern macroeconomic data, including restrictive functional form assumptions, difficulties handling complex confounding structures, limited external validity, and inability to detect heterogeneous effects across socioeconomic strata \citep[section 2.2]{main}.
+
+\subsection*{Rise of Machine Learning in Economic Policy Analysis}
+Machine learning (ML) methods offer powerful tools to address these issues by flexibly modeling complex, high-dimensional, and nonlinear relationships without strict parametric constraints \citep[section 2.3]{main}. ML techniques such as Random Forests, LASSO regression, and deep learning have enhanced forecasting accuracy, behavioral classification, and structural prediction \citep{bankofcanada2023, sekhansen2023}. Specifically, Long Short-Term Memory (LSTM) networks excel at capturing temporal dependencies in economic time-series data, overcoming weaknesses of classic autoregressive models \citep[sec. 4.3.1]{main}.
+
+\subsection*{Causal Machine Learning and Hybrid Frameworks}
+Despite its predictive power, ML requires integration with causal inference techniques to estimate unbiased treatment effects. Causal Machine Learning (CML) frameworks combine flexible algorithms with rigorous identification strategies, enabling estimation of average treatment effects (ATE) and conditional average treatment effects (CATE) \citep[section 2.4]{main}. Key methodologies include Double Machine Learning (DoubleML), which utilizes orthogonalization to reduce bias in high-dimensional settings, and Causal Forests, which estimate heterogeneous effects without pre-specified interactions \citep[sec. 4.2, 4.4]{main}.
+
+\subsection*{Hybrid Analytical Framework for VAT Policy Evaluation}
+The integration of LSTM for baseline forecasting, DoubleML for unbiased treatment estimation, and Causal Forests for heterogeneity mapping provides a novel hybrid framework unifying forecasting, inference, and policy scenario simulation \citep[section 2.4.2, 4.1]{main}. This addresses limitations of traditional models by enhancing accuracy, reducing bias, capturing subgroup heterogeneity, and supporting policy design under uncertainty \citep[section 1.3]{main}.
+
+\subsection*{Importance of Multi-Scale Data Integration}
+Implementing this hybrid framework necessitates well-curated datasets encompassing macroeconomic indicators (GDP growth, unemployment, inflation), micro-level firm dynamics, and demographic covariates \citep[section 3]{main}. The multi-scale integration facilitates simultaneous evaluation of aggregate and distributional impacts of VAT policy adjustments \citep[section 3.8]{main}.
+
+% (Bibliography removed: handled globally in main.tex)

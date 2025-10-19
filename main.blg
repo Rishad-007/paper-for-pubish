@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: aasjournal.bst
+Database file #1: bibliography/references.bib
+Warning--entry type for "WorldBankWDI2024" isn't style-file defined
+--line 47 of file bibliography/references.bib
+Warning--entry type for "IMFIFS2024" isn't style-file defined
+--line 56 of file bibliography/references.bib
+Warning--entry type for "NationalStatsVAT2024" isn't style-file defined
+--line 64 of file bibliography/references.bib
+Warning--entry type for "HouseholdSurvey2023" isn't style-file defined
+--line 72 of file bibliography/references.bib
+Warning--entry type for "FusedMacroMicro2024" isn't style-file defined
+--line 81 of file bibliography/references.bib
+Warning--I didn't find a database entry for "imf2023"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty journal in bolarindwa2023vat
+Warning--empty journal in ndlovu2024vat
+You've used 31 entries,
+            3168 wiz_defined-function locations,
+            779 strings with 8306 characters,
+and the built_in function-call counts, 9291 in all, are:
+= -- 855
+> -- 422
+< -- 32
++ -- 148
+- -- 113
+* -- 599
+:= -- 1817
+add.period$ -- 60
+call.type$ -- 31
+change.case$ -- 131
+chr.to.int$ -- 22
+cite$ -- 33
+duplicate$ -- 431
+empty$ -- 748
+format.name$ -- 159
+if$ -- 1872
+int.to.chr$ -- 10
+int.to.str$ -- 0
+missing$ -- 10
+newline$ -- 130
+num.names$ -- 124
+pop$ -- 117
+preamble$ -- 1
+purify$ -- 129
+quote$ -- 0
+skip$ -- 317
+stack$ -- 0
+substring$ -- 231
+swap$ -- 18
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 279
+warning$ -- 2
+while$ -- 95
+width$ -- 0
+write$ -- 354
+(There were 8 warnings)

@@ -1,0 +1,137 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{lineno} % Line numbers package (currently disabled)
+\usepackage{xcolor}
+\usepackage{soul}
+% \linenumbers  % Disabled per request to remove line numbering
+
+% Page layout - reduce margins for more text width
+\usepackage[left=2cm, right=2cm, top=2.5cm, bottom=2.5cm]{geometry}
+
+% Required packages
+\usepackage{amsmath}
+\usepackage{natbib}
+% Hyperref with subdued link styling (no colored boxes)
+\usepackage[colorlinks=true, linkcolor=black, citecolor=black, urlcolor=blue, filecolor=black, menucolor=black]{hyperref}
+\usepackage{booktabs}
+\usepackage{siunitx}
+\usepackage{longtable}
+\usepackage{rotating}
+\usepackage{markdown}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{makecell}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage[skip=10pt]{caption}
+
+% Table of contents formatting
+\usepackage{tocloft}
+\usepackage{titletoc}
+
+% Configure table of contents style
+\renewcommand{\cfttoctitlefont}{\Large\bfseries}
+\renewcommand{\cftdot}{.}
+\renewcommand{\cftdotsep}{2}
+\setlength{\cftbeforesecskip}{3pt}
+\renewcommand{\cftsecfont}{\normalsize}
+\renewcommand{\cftsubsecfont}{\small}
+\renewcommand{\cftsubsubsecfont}{\footnotesize}
+
+% Configure table of figures style
+\renewcommand{\cftloftitlefont}{\Large\bfseries}
+\renewcommand{\cftfigfont}{Figure }
+\renewcommand{\cftfigaftersnum}{:}
+\setlength{\cftfigindent}{0pt}
+\setlength{\cftfignumwidth}{4em}
+
+% Author macros
+\newcommand{\vdag}{(v)^\dagger}
+\newcommand{\aastex}{AAS\TeX}
+\newcommand{\latex}{La\TeX}
+
+% Define custom commands for thesis
+\newcommand{\VAT}{VAT}
+\newcommand{\LSTM}{LSTM}
+\newcommand{\CF}{Causal Forest}
+
+% Section divider macro: inserts a standalone title page (no page number) before each major section
+\newcommand{\SectionDivider}[1]{%
+  \clearpage
+  	\thispagestyle{empty}% suppress page number
+  \begin{center}
+    \vspace*{0.35\textheight}
+    {\Huge\bfseries #1}\par
+  \end{center}
+  \clearpage
+}
+
+% Define keywords command for article class
+\newcommand{\keywords}[1]{\noindent\textbf{Keywords:} #1}
+
+\begin{document}
+
+% Front matter with roman numerals
+\pagenumbering{roman}
+
+% Include titlepage
+\input{sections/tittlepage}
+
+% Abstract
+\input{sections/abstract}
+
+% Background (placed immediately after abstract, no divider page)
+
+
+% Table of Contents
+\newpage
+\tableofcontents
+
+% List of Figures (added to TOC)
+\newpage
+\addcontentsline{toc}{section}{List of Figures}
+\listoffigures
+
+% List of Tables (added to TOC)
+\newpage
+\addcontentsline{toc}{section}{List of Tables}
+\listoftables
+
+% Main content with arabic numerals
+\newpage
+\pagenumbering{arabic}
+
+% Main sections with divider pages
+\SectionDivider{Introduction}
+\input{sections/introduction}
+
+\SectionDivider{Background Study}
+\input{sections/background}
+
+\SectionDivider{Literature Review}
+\input{sections/literature-review}
+
+\SectionDivider{Data}
+\input{sections/data}
+
+\SectionDivider{Methodology}
+\input{sections/methodology}
+
+\SectionDivider{Results}
+\input{sections/results}
+
+\SectionDivider{Discussion}
+\input{sections/discussion}
+
+\SectionDivider{Conclusion}
+\input{sections/conclusion}
+
+
+\SectionDivider{References}
+
+% Bibliography
+\input{bibliography/bibliography}
+
+% Appendices
+\input{sections/appendix}
+
+\end{document}

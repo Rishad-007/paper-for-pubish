@@ -1,0 +1,130 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\href{#1}{#1}}
+\providecommand{\dodoi}[1]{doi:~\href{http://doi.org/#1}{\nolinkurl{#1}}}
+\providecommand{\doeprint}[1]{\href{http://ascl.net/#1}{\nolinkurl{http://ascl.net/#1}}}
+\providecommand{\doarXiv}[1]{\href{https://arxiv.org/abs/#1}{\nolinkurl{https://arxiv.org/abs/#1}}}
+
+\bibitem[{Agrawal \& Zimmermann(2024)}]{agrawal2024effects}
+Agrawal, D.~R., \& Zimmermann, L.~V. 2024, The Effects of Adopting a Value Added Tax on Firms, Tech. Rep. 11469, CESifo Working Paper.
+\newblock \url{https://www.econstor.eu/bitstream/10419/308365/1/cesifo1_wp11469.pdf}
+
+\bibitem[{{Bank of Canada}(2023{\natexlab{a}})}]{bankofcanada2023}
+{Bank of Canada}. 2023{\natexlab{a}}, Machine Learning for Economics Research: When, What and How.
+\newblock \url{https://www.bankofcanada.ca/2023/10/staff-analytical-note-2023-16/}
+
+\bibitem[{{Bank of Canada}(2023{\natexlab{b}})}]{bankofcanada2023ml}
+---. 2023{\natexlab{b}}, Machine Learning for Economics Research: When, What and How.
+\newblock \url{https://www.bankofcanada.ca/2023/10/staff-analytical-note-2023-16/}
+
+\bibitem[{Bareinboim \& Pearl(2023{\natexlab{a}})}]{bareinboim2023}
+Bareinboim, E., \& Pearl, J. 2023{\natexlab{a}}, Econometrics Journal, 28, 41.
+\newblock \url{https://academic.oup.com/ectj/article-abstract/28/1/41/7075871}
+
+\bibitem[{Bareinboim \& Pearl(2023{\natexlab{b}})}]{bareinboim2023fusion}
+---. 2023{\natexlab{b}}, Econometrics Journal.
+\newblock \url{https://academic.oup.com/ectj/article-abstract/28/1/41/7075871}
+
+\bibitem[{Bolarinwa(2023)}]{bolarindwa2023vat}
+Bolarinwa, B.~I. 2023.
+\newblock \url{https://www.academia.edu/104772246/VALUE_ADDED_TAS_AND_THE_SURVIVAL_OF_SMALL_AND_MEDIUM_SCALE_ENTERPRISES_IN_LAGOS_STATE}
+
+\bibitem[{Data(2025)}]{fred2025}
+Data, F. R.~E. 2025, FRED: Economic Data.
+\newblock \url{https://fred.stlouisfed.org/}
+
+\bibitem[{Fund(2023)}]{imf2023aii}
+Fund, I.~M. 2023, AI and Macroeconomic Modeling: Deep Reinforcement Learning in an RBC model.
+\newblock \url{https://www.elibrary.imf.org/view/journals/001/2023/040/article-A001-en.xml}
+
+\bibitem[{Garcia \& colleagues(2020{\natexlab{a}})}]{garcia2020}
+Garcia, I., \& colleagues. 2020{\natexlab{a}}, Policy Evaluation Using Causal Inference Methods, Tech. rep., HAL Archives Ouvertes.
+\newblock \url{https://hal.science/hal-03098058/document}
+
+\bibitem[{Garcia \& colleagues(2020{\natexlab{b}})}]{policy2020hal}
+---. 2020{\natexlab{b}}, Policy Evaluation Using Causal Inference Methods.
+\newblock \url{https://hal.science/hal-03098058/document}
+
+\bibitem[{Heckman(2008{\natexlab{a}})}]{heckman2008}
+Heckman, J.~J. 2008{\natexlab{a}}, National Bureau of Economic Research.
+\newblock \url{https://blogs.kent.ac.uk/jonw/files/2015/03/Heckman-08-Econometric-causality.pdf}
+
+\bibitem[{Heckman(2008{\natexlab{b}})}]{heckman2008econometric}
+---. 2008{\natexlab{b}}, National Bureau of Economic Research.
+\newblock \url{https://blogs.kent.ac.uk/jonw/files/2015/03/Heckman-08-Econometric-causality.pdf}
+
+\bibitem[{{International Monetary Fund}(2023{\natexlab{a}})}]{imf2023ai}
+{International Monetary Fund}. 2023{\natexlab{a}}, AI and Macroeconomic Modeling: Deep Reinforcement Learning in an RBC model.
+\newblock \url{https://www.elibrary.imf.org/view/journals/001/2023/040/article-A001-en.xml}
+
+\bibitem[{{International Monetary Fund}(2023{\natexlab{b}})}]{imf2023fiscal}
+---. 2023{\natexlab{b}}, IMF Working Papers, 2023.
+\newblock \url{https://www.elibrary.imf.org/view/journals/001/2023/040/article-A001-en.xml}
+
+\bibitem[{{International Monetary Fund}(2024)}]{IMFIFS2024}
+---. 2024, International Financial Statistics (IFS).
+\newblock \url{https://data.imf.org/}
+
+\bibitem[{James~Heckman(2023{\natexlab{a}})}]{heckman2023}
+James~Heckman, R.~P. 2023{\natexlab{a}}, PMC.
+\newblock \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9894266/}
+
+\bibitem[{James~Heckman(2023{\natexlab{b}})}]{econmodel2023}
+---. 2023{\natexlab{b}}, The Econometric Model for Causal Policy Analysis.
+\newblock \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9894266/}
+
+\bibitem[{Mphagahlele O.~Ndlovu(2024)}]{ndlovu2024vat}
+Mphagahlele O.~Ndlovu, D. P.~S. 2024.
+\newblock \url{https://sajems.org/index.php/sajems/article/view/5589/3086}
+
+\bibitem[{{National Household Survey Program}(2023)}]{HouseholdSurvey2023}
+{National Household Survey Program}. 2023, Household Income and Expenditure Survey (HIES), Release 2023-Q4.
+\newblock \url{https://example.gov/hies}
+
+\bibitem[{{National Statistics Office}(2024)}]{NationalStatsVAT2024}
+{National Statistics Office}. 2024, Historical VAT Rates Dataset.
+\newblock \url{https://example.gov/vat-rates}
+
+\bibitem[{Nur(2025)}]{main}
+Nur, M.~R. 2025, A Novel Hybrid Machine Learning Approach for VAT Policy Impact Analysis, Tech. rep., Begum Rokeya University, Rangpur
+
+\bibitem[{Sekhansen(2023{\natexlab{a}})}]{sekhansen2023}
+Sekhansen, A. 2023{\natexlab{a}}, Machine Learning for Economics and Policy.
+\newblock \url{https://sekhansen.github.io/pdf_files/funcas_chapter.pdf}
+
+\bibitem[{Sekhansen(2023{\natexlab{b}})}]{sekhansen2023ml}
+---. 2023{\natexlab{b}}, Machine Learning for Economics and Policy.
+\newblock \url{https://sekhansen.github.io/pdf_files/funcas_chapter.pdf}
+
+\bibitem[{Sekhansen(2023{\natexlab{c}})}]{sekhansen2023mlpolicy}
+---. 2023{\natexlab{c}}, Machine Learning for Economics and Policy.
+\newblock \url{https://sekhansen.github.io/pdf_files/funcas_chapter.pdf}
+
+\bibitem[{Series(2025)}]{ipums2025}
+Series, I. P. U.~M. 2025, IPUMS Current Population Survey Microdata.
+\newblock \url{https://usa.ipums.org/usa/index.shtml}
+
+\bibitem[{Shephard(2023{\natexlab{a}})}]{shephard2023dynamic}
+Shephard, N. 2023{\natexlab{a}}, Dynamic Causal Models for Time-Series Data.
+\newblock \url{https://scholar.harvard.edu/files/shephard/files/causal_model_submit.pdf}
+
+\bibitem[{Shephard(2023{\natexlab{b}})}]{shephard2023nonparametric}
+---. 2023{\natexlab{b}}, Harvard University Working Papers.
+\newblock \url{https://scholar.harvard.edu/files/shephard/files/causal_model_submit.pdf}
+
+\bibitem[{Singh(2019)}]{singh2019impact}
+Singh, S.~N. 2019, Financial Markets, Institutions and Risks, 3, 62.
+\newblock \url{https://armgpublishing.com/wp-content/uploads/2020/01/6-2.pdf}
+
+\bibitem[{Statistics(2025)}]{bds2025}
+Statistics, B.~D. 2025, BDS: Firm Dynamics Data.
+\newblock \url{https://www.census.gov/programs-surveys/bds.html}
+
+\bibitem[{{World Bank}(2024)}]{WorldBankWDI2024}
+{World Bank}. 2024, World Development Indicators, April 2024.
+\newblock \url{https://databank.worldbank.org/source/world-development-indicators}
+
+\bibitem[{YourSurname(2024)}]{FusedMacroMicro2024}
+YourSurname, F. 2024, Fused Macro–Micro Dataset for VAT Policy Evaluation, Author-generated dataset
+
+\end{thebibliography}

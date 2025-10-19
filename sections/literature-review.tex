@@ -1,0 +1,53 @@
+\section{Literature Review}\label{sec:litreview}
+
+\subsection{Traditional Econometric Approaches to Policy Analysis}\label{subsec:econometric}
+
+Causal inference in economics has traditionally relied on structural econometric models such as Ordinary Least Squares (OLS), Difference-in-Differences (DiD), and Instrumental Variables (IV). These models assume linearity and exogeneity but are interpretable and tightly connected to economic theory. \citet{heckman2008econometric} emphasizes that structural modeling allows researchers to account for agent preferences and expectations—yielding insights into both subjective and objective outcomes. His work underscores how econometric frameworks address policy-relevant questions that are often elusive in reduced-form strategies.
+
+Supporting this view, recent critiques of AI-centric or purely statistical models warn that such frameworks may underrepresent the behavioral richness embedded in economic systems. The econometric approach remains essential for specifying counterfactuals grounded in realistic assumptions and well-structured data-generating processes \citep{econmodel2023}.
+
+\subsection{Limitations of Traditional Methods}\label{subsec:limitations}
+
+Despite their contributions, conventional econometric methods face significant drawbacks when applied to modern macroeconomic settings. As datasets become increasingly high-dimensional and observational, standard assumptions such as instrument exogeneity or parallel trends in DiD models may no longer hold. \citet{policy2020hal} outlines how the reliability of quasi-experimental methods depends on stringent and often unverifiable assumptions, limiting their robustness for real-world policy evaluation.
+
+Meanwhile, as \citet{bareinboim2023fusion} points out, today's data sources are frequently sparse, heterogeneous, and non-random. These challenges necessitate methodological innovations that go beyond classical assumptions, enabling researchers to make valid causal claims even under imperfect data collection and design conditions.
+
+\subsection{The Rise of Machine Learning in Economics}\label{subsec:ml_economics}
+
+Machine learning (ML) has introduced powerful tools to augment economic analysis. With their capacity to manage complex, high-dimensional, and nonlinear data structures, ML techniques have found increasing utility in forecasting, modeling, and simulation. According to \citet{bankofcanada2023ml}, algorithms like Random Forests and LASSO regression are now used for economic nowcasting and structural prediction tasks.
+
+\citet{sekhansen2023mlpolicy} highlights the added value of ML in areas such as behavioral classification from digital footprints. These methods allow for the extraction of features from structured data and enable more timely and granular policy analysis.
+
+The International Monetary Fund has also explored the integration of Deep Reinforcement Learning (DRL) into macroeconomic modeling. By embedding DRL into Real Business Cycle (RBC) frameworks, researchers can simulate agent behavior and evaluate the effectiveness of policies in dynamic, uncertain environments \citep{imf2023ai}.
+
+\subsection{Causal Machine Learning and Hybrid Frameworks}\label{subsec:cml_hybrid}
+
+Causal machine learning (CML) represents a breakthrough in estimating policy effects while maintaining flexibility and scalability. Unlike traditional models, CML approaches relax functional form assumptions and allow for heterogeneous treatment effect estimation, even in the presence of high-dimensional covariates.
+
+\subsubsection{Key Advances in Causal ML}\label{subsubsec:advances}
+
+\citet{shephard2023nonparametric} introduces a dynamic potential outcomes framework tailored for time-series data. This method allows researchers to model the temporal unfolding of treatment effects—particularly useful for studying fiscal reforms, such as changes in VAT policy, where outcomes materialize over time.
+
+Similarly, \citet{bareinboim2023fusion} advances a graph-theoretic framework that permits the fusion of multiple data sources—observational and experimental alike. These methods employ formal identification criteria and structural assumptions to generalize causal knowledge across domains and populations.
+
+\subsubsection{Proposed Hybrid Framework}\label{subsubsec:proposed}
+
+Building on these contributions, this thesis develops a hybrid policy evaluation framework that combines:
+
+\begin{itemize}
+    \item \textbf{Double Machine Learning (DoubleML)}: A tool for estimating causal effects of policy variables on aggregate outcomes, while controlling for confounding using flexible ML techniques.
+    \item \textbf{Causal Forests}: These enable granular investigation of heterogeneous treatment effects (HTEs) across demographic subgroups such as income strata or age brackets.
+    \item \textbf{LSTM-based Time Series Forecasting}: A forecasting model used to construct counterfactual baselines by predicting macroeconomic trajectories in the absence of intervention.
+\end{itemize}
+
+\subsubsection{Theoretical Contributions}\label{subsubsec:theoretical}
+
+This integrated approach offers several theoretical advantages:
+
+\begin{itemize}
+    \item It unifies \textbf{prediction}, \textbf{estimation}, and \textbf{simulation} in a single coherent causal inference pipeline.
+    \item It bridges \textbf{macroeconomic modeling} and \textbf{micro-level policy targeting} by allowing simultaneous top-down and bottom-up analysis.
+    \item It provides a foundation for robust \textbf{counterfactual simulation} of fiscal policy scenarios, thereby improving decision-making under uncertainty.
+\end{itemize}
+
+Overall, the proposed hybrid framework aligns the rigor of structural econometrics with the adaptability of modern machine learning methods—offering a versatile toolkit for empirical policy analysis.
