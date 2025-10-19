@@ -1,14 +1,16 @@
 \section{Introduction}\label{sec:intro}
 
-Fiscal policy decisions, such as adjusting Value Added Tax (VAT), are among the most influential tools available to governments for managing economic performance and public finance. Yet, determining the true impact of such interventions remains a profound challenge. Policy changes often ripple across multiple layers of the economy---affecting inflation, consumer behavior, income distribution, and macroeconomic stability. Accurately predicting these outcomes, both before and after implementation, is essential for minimizing policy regret and supporting inclusive economic planning.
+Fiscal policy decisions constitute one of the most powerful instruments available to governments for steering economic performance and managing public finances. Fiscal policy broadly encompasses government decisions on taxation, spending, and borrowing, aiming to influence macroeconomic variables such as aggregate demand, inflation, and income distribution. Among these tools, adjustments to consumption taxes—specifically Value-Added Tax (VAT)—represent a particularly significant and widely utilized component of fiscal policy, contributing substantially to government revenue generation and fiscal management.
 
-\subsection{Background \& Motivation}\label{subsec:background}
+Policy interventions through fiscal measures propagate through various layers of the economy, impacting inflation rates, consumer spending patterns, income equality, and overall macroeconomic stability. Accurately anticipating both the immediate and downstream consequences of fiscal policy changes is crucial for minimizing unintended economic disruptions and supporting inclusive, sustainable economic planning.
+
+\subsection{Background \& Motivation} \label{subsec:background}
 
 \section{Background and Motivation}
 
 Fiscal policy, such as Value-Added Tax (VAT), plays a central role in macroeconomic and fiscal management, particularly in developing and emerging economies. Unlike income taxes, VAT can be applied broadly and collected efficiently, making it a key instrument for raising government revenue, maintaining budgetary discipline, and funding social programs. However, its effects are not neutral: VAT increases may lead to inflationary pressure, reduced consumption, and adverse welfare effects—especially on lower-income populations.
 
-To assess such trade-offs, policymakers have traditionally relied on econometric methods such as Ordinary Least Squares (OLS), Difference-in-Differences (DiD), and Vector Autoregression (VAR). While these tools have been foundational in empirical economics, they suffer from significant limitations:
+Traditional econometric methods such as Ordinary Least Squares (OLS), Difference-in-Differences (DiD), and Vector Autoregression (VAR) have been widely used for policy analysis \citep{wooldridge2010econometric, angrist2008mostly, lutkepohl2005new}. However, these approaches have notable limitations: they often rely on strong parametric assumptions (e.g., linearity, homoscedasticity) \citep{wooldridge2010econometric}, struggle with high-dimensional or non-linear confounding in observational data \citep{athey2018machine}, suffer from poor generalization to unobserved scenarios \citep{athey2019policy}, and lack sufficient granularity to examine heterogeneous effects across different socioeconomic groups \citep{wager2019estimation}.
 
 \begin{itemize}
   \item Strong parametric assumptions (e.g., linearity, homoscedasticity) that may not reflect complex real-world dynamics \citep{hellwig2021predicting}.
@@ -43,29 +45,15 @@ How does a hybrid causal machine learning framework that integrates sequence for
 \end{enumerate}
 \end{quote}
 
-\subsection{Contributions}\label{subsec:contributions}
-
-This thesis makes the following contributions:
-
-\begin{enumerate}
-  \item \textbf{Hybrid Framework:} Proposes an integrated VAT policy evaluation framework combining deep sequence forecasting (LSTM), orthogonalized causal estimation (DoubleML), and non-parametric heterogeneity modeling (Causal Forest), delivering quantifiable improvements in forecast accuracy, treatment effect precision, and policy decision quality.
-  \item \textbf{Modular Causal Pipeline:} Implements a four-stage pipeline (discovery, estimation, validation, simulation) with embedded diagnostics (balance, overlap, sensitivity, calibration) to support transparent counterfactual inference.
-  \item \textbf{Macro--Micro Data Integration:} Constructs a reproducible linkage of macroeconomic time-series and household-level demographic data, enabling simultaneous estimation of aggregate and distributional effects of VAT changes.
-  \item \textbf{Heterogeneous Effects Estimation:} Produces statistically validated subgroup treatment effect estimates using honest Causal Forests, with heterogeneity confirmed via permutation tests, calibration assessments, and confidence interval coverage analyses.
-  \item \textbf{Comparative Evaluation:} Empirically benchmarks the hybrid approach against traditional econometric baselines (ARIMA/VAR, fixed-effects OLS, Difference-in-Differences), showing reductions in forecast RMSE, narrower ATE confidence intervals, and detection of economically meaningful heterogeneity.
-  \item \textbf{Policy Regret Reduction:} Defines an expected policy regret functional over alternative VAT scenarios and demonstrates that the integrated framework achieves lower simulated welfare regret than any single model component.
-  \item \textbf{Reproducibility and Auditability:} Delivers configuration-managed experiments (versioned code, fixed random seeds, documented preprocessing) enabling end-to-end replication of all empirical results.
-
-\end{enumerate}
 
 
 
-\subsection{Structure of the Paper}\label{subsec:structure}
+\subsection{Structure of the Paper} \label{subsec:structure}
 
 The rest of the paper is structured as follows:
 
 \begin{itemize}
-    \item \textbf{Section~\ref{sec:background}} provides essential background information and context for understanding the main topics discussed in the document.
+   
     \item \textbf{Section~\ref{sec:litreview}} reviews existing literature on causal inference, machine learning for economics, and counterfactual analysis.
     
     \item \textbf{Section~\ref{sec:data}} details the datasets, data preprocessing, and variable construction.

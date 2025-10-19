@@ -1,12 +1,12 @@
-\contentsline {figure}{\numberline {1}{\ignorespaces Data acquisition and processing pipeline illustrating the systematic integration of diverse data sources through automated extraction, cleaning, harmonization, and feature engineering stages.}}{14}{figure.caption.6}%
-\contentsline {figure}{\numberline {2}{\ignorespaces Complete dataset overview showing the integration of macroeconomic indicators, firm-level data, and demographic variables across the analytical sample period.}}{18}{figure.caption.7}%
-\contentsline {figure}{\numberline {3}{\ignorespaces Hybrid Causal Machine Learning Framework for VAT Policy Analysis}}{21}{figure.caption.9}%
-\contentsline {figure}{\numberline {4}{\ignorespaces DoubleML Causal Effect Estimation Results}}{22}{figure.caption.10}%
-\contentsline {figure}{\numberline {5}{\ignorespaces LSTM Network Economic Time-Series Forecasting result}}{23}{figure.caption.11}%
-\contentsline {figure}{\numberline {6}{\ignorespaces Causal Forest Analysis Results}}{24}{figure.caption.12}%
-\contentsline {figure}{\numberline {7}{\ignorespaces Comprehensive Hybrid Policy Analysis Workflow}}{26}{figure.caption.13}%
-\contentsline {figure}{\numberline {8}{\ignorespaces Complete Hybrid Causal Machine Learning Model Architecture}}{27}{figure.caption.14}%
-\contentsline {figure}{\numberline {9}{\ignorespaces Economic Data Overview: Time series visualization of key macroeconomic indicators and firm dynamics metrics spanning 1977--2022.}}{30}{figure.caption.15}%
-\contentsline {figure}{\numberline {10}{\ignorespaces Comparative Model Performance: Comparative survival effects across tax scenarios.}}{32}{figure.caption.18}%
-\contentsline {figure}{\numberline {11}{\ignorespaces Hybrid Model Results: Visualization of predicted firm survival rates and causal effects under varying VAT policy scenarios using the hybrid ensemble approach.}}{34}{figure.caption.21}%
+\contentsline {figure}{\numberline {1}{\ignorespaces Data acquisition and processing pipeline illustrating the systematic integration of diverse data sources through automated extraction, cleaning, harmonization, and feature engineering stages.}}{11}{figure.caption.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Complete dataset overview showing the integration of macroeconomic indicators, firm-level data, and demographic variables across the analytical sample period.}}{15}{figure.caption.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Hybrid Causal Machine Learning Framework for VAT Policy Analysis}}{18}{figure.caption.4}%
+\contentsline {figure}{\numberline {4}{\ignorespaces DoubleML Causal Effect Estimation Results}}{19}{figure.caption.5}%
+\contentsline {figure}{\numberline {5}{\ignorespaces LSTM Network Economic Time-Series Forecasting result}}{20}{figure.caption.6}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Causal Forest Analysis Results}}{21}{figure.caption.7}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Comprehensive Hybrid Policy Analysis Workflow}}{23}{figure.caption.8}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Complete Hybrid Causal Machine Learning Model Architecture}}{24}{figure.caption.9}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Economic Data Overview: Time series visualization of key macroeconomic indicators and firm dynamics metrics spanning 1977--2022.}}{27}{figure.caption.10}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Comparative Model Performance: Comparative survival effects across tax scenarios.}}{29}{figure.caption.13}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Hybrid Model Results: Visualization of predicted firm survival rates and causal effects under varying VAT policy scenarios using the hybrid ensemble approach.}}{31}{figure.caption.16}%
 \contentsfinish 

@@ -9,6 +9,15 @@
 Agrawal, D.~R., \& Zimmermann, L.~V. 2024, The Effects of Adopting a Value Added Tax on Firms, Tech. Rep. 11469, CESifo Working Paper.
 \newblock \url{https://www.econstor.eu/bitstream/10419/308365/1/cesifo1_wp11469.pdf}
 
+\bibitem[{Angrist \& Pischke(2008)}]{angrist2008mostly}
+Angrist, J.~D., \& Pischke, J.-S. 2008, Mostly Harmless Econometrics: An Empiricist's Companion (Princeton University Press)
+
+\bibitem[{Athey(2020)}]{athey2018machine}
+Athey, S. 2020, Annual Review of Economics, 12, 17
+
+\bibitem[{Athey \& Wager(2019)}]{athey2019policy}
+Athey, S., \& Wager, S. 2019, Econometrica, 87, 517
+
 \bibitem[{{Bank of Canada}(2023{\natexlab{a}})}]{bankofcanada2023}
 {Bank of Canada}. 2023{\natexlab{a}}, Machine Learning for Economics Research: When, What and How.
 \newblock \url{https://www.bankofcanada.ca/2023/10/staff-analytical-note-2023-16/}
@@ -79,20 +88,23 @@ James~Heckman, R.~P. 2023{\natexlab{a}}, PMC.
 ---. 2023{\natexlab{b}}, The Econometric Model for Causal Policy Analysis.
 \newblock \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9894266/}
 
+\bibitem[{L{\"u}tkepohl(2005)}]{lutkepohl2005new}
+L{\"u}tkepohl, H. 2005, New Introduction to Multiple Time Series Analysis (Springer)
+
 \bibitem[{Mphagahlele O.~Ndlovu(2024)}]{ndlovu2024vat}
 Mphagahlele O.~Ndlovu, D. P.~S. 2024.
 \newblock \url{https://sajems.org/index.php/sajems/article/view/5589/3086}
 
 \bibitem[{{National Household Survey Program}(2023)}]{HouseholdSurvey2023}
 {National Household Survey Program}. 2023, Household Income and Expenditure Survey (HIES), Release 2023-Q4.
-\newblock \url{https://example.gov/hies}
+\newblock \url{https://data.census.gov/}
 
 \bibitem[{{National Statistics Office}(2024)}]{NationalStatsVAT2024}
 {National Statistics Office}. 2024, Historical VAT Rates Dataset.
-\newblock \url{https://example.gov/vat-rates}
+\newblock \url{https://data.census.gov/}
 
-\bibitem[{Nur(2025)}]{main}
-Nur, M.~R. 2025, A Novel Hybrid Machine Learning Approach for VAT Policy Impact Analysis, Tech. rep., Begum Rokeya University, Rangpur
+\bibitem[{Nur \& Collaborators(2024)}]{FusedMacroMicro2024}
+Nur, R., \& Collaborators. 2024, Fused Macro–Micro Dataset for VAT Policy Evaluation, Author-generated dataset
 
 \bibitem[{Sekhansen(2023{\natexlab{a}})}]{sekhansen2023}
 Sekhansen, A. 2023{\natexlab{a}}, Machine Learning for Economics and Policy.
@@ -129,14 +141,17 @@ Statistics, B.~D. 2025, BDS: Firm Dynamics Data.
 \bibitem[{Vallarino(2024)}]{vallarino2024machine}
 Vallarino, J. 2024, arXiv preprint arXiv:2410.00002
 
+\bibitem[{Wager \& Athey(2018)}]{wager2019estimation}
+Wager, S., \& Athey, S. 2018, Journal of the American Statistical Association, 113, 1228
+
 \bibitem[{Wager \& Athey(2019)}]{wager2019causal}
-Wager, S., \& Athey, S. 2019, Journal of the American Statistical Association, 113, 1228
+---. 2019, Journal of the American Statistical Association, 113, 1228
+
+\bibitem[{Wooldridge(2010)}]{wooldridge2010econometric}
+Wooldridge, J.~M. 2010, Econometric Analysis of Cross Section and Panel Data (MIT Press)
 
 \bibitem[{{World Bank}(2024)}]{WorldBankWDI2024}
 {World Bank}. 2024, World Development Indicators, April 2024.
 \newblock \url{https://databank.worldbank.org/source/world-development-indicators}
-
-\bibitem[{YourSurname(2024)}]{FusedMacroMicro2024}
-YourSurname, F. 2024, Fused Macro–Micro Dataset for VAT Policy Evaluation, Author-generated dataset
 
 \end{thebibliography}

@@ -13,49 +13,50 @@ Warning--entry type for "HouseholdSurvey2023" isn't style-file defined
 --line 72 of file bibliography/references.bib
 Warning--entry type for "FusedMacroMicro2024" isn't style-file defined
 --line 81 of file bibliography/references.bib
+Warning--I didn't find a database entry for "main"
 Warning--I didn't find a database entry for "imf2023"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty journal in bolarindwa2023vat
 Warning--empty journal in ndlovu2024vat
-You've used 35 entries,
+You've used 40 entries,
             3168 wiz_defined-function locations,
-            799 strings with 8916 characters,
-and the built_in function-call counts, 10502 in all, are:
-= -- 962
-> -- 480
-< -- 36
-+ -- 167
-- -- 129
-* -- 672
-:= -- 2051
-add.period$ -- 64
-call.type$ -- 35
-change.case$ -- 148
-chr.to.int$ -- 26
-cite$ -- 37
-duplicate$ -- 489
-empty$ -- 844
-format.name$ -- 182
-if$ -- 2118
+            824 strings with 9446 characters,
+and the built_in function-call counts, 12383 in all, are:
+= -- 1122
+> -- 580
+< -- 41
++ -- 199
+- -- 160
+* -- 806
+:= -- 2376
+add.period$ -- 69
+call.type$ -- 40
+change.case$ -- 171
+chr.to.int$ -- 31
+cite$ -- 42
+duplicate$ -- 570
+empty$ -- 1009
+format.name$ -- 230
+if$ -- 2524
 int.to.chr$ -- 10
 int.to.str$ -- 0
-missing$ -- 13
-newline$ -- 142
-num.names$ -- 140
-pop$ -- 137
+missing$ -- 19
+newline$ -- 157
+num.names$ -- 160
+pop$ -- 175
 preamble$ -- 1
-purify$ -- 146
+purify$ -- 170
 quote$ -- 0
-skip$ -- 365
+skip$ -- 445
 stack$ -- 0
-substring$ -- 272
+substring$ -- 337
 swap$ -- 18
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 315
+type$ -- 351
 warning$ -- 2
-while$ -- 108
+while$ -- 126
 width$ -- 0
-write$ -- 392
-(There were 8 warnings)
+write$ -- 441
+(There were 9 warnings)
