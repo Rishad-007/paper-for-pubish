@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1760917742.0628 "main.aux" "main.bbl" "main" 1760917809.60824 0
+["bibtex main"] 1760943192.23647 "main.aux" "main.bbl" "main" 1760943731.75683 0
   "./bibliography/references.bib" 1760917592.87892 9950 72f61dcb86b99b5c95f5e49a79110eba ""
   "/usr/local/texlive/2025/texmf-dist/bibtex/bst/aastex/aasjournal.bst" 1565209774 36130 1e2d4614828005814bd64e3c665b8e99 ""
-  "main.aux" 1760917809.11392 25631 816e31e1fb45a441dad90dacbef18283 "pdflatex"
+  "main.aux" 1760943731.25853 25636 9ddeee3028ddbd5ac540b99f805b6f24 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1760917794.52806 "/Users/rishad/Downloads/restart defence/for publish/thesis/main.tex" "main.pdf" "main" 1760917809.60849 0
+["pdflatex"] 1760943716.55784 "/Users/rishad/Downloads/restart defence/for publish/thesis/main.tex" "main.pdf" "main" 1760943731.75711 0
   "/Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/economic_data_overview.png" 1758134807.32828 661886 bd0a778b36fe93940f811117bede5334 ""
   "/Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/figure3_hybrid_model_results.png" 1758134807.34576 674299 f9dcc9fad432b571450163887180088f ""
   "/Users/rishad/Downloads/ThesisPaperFinal/Defence-paper/thesis/exports/final_policy_impact_analysis.png" 1758134807.35531 492029 3cf2f789fcc0fac2e199962a7c785b34 ""
@@ -169,22 +169,22 @@
   "images/dataacq.png" 1758134807.43385 175185 4c4176da5a828688c72708eb96fb388f ""
   "images/modelplan.png" 1758134807.44424 855631 724bf5196a8f2ffa5776419e5f76880f ""
   "images/wholedata.png" 1758134807.44792 295004 08c55beb653fd5dcf995f7d0aac382bb ""
-  "main.aux" 1760917809.11392 25631 816e31e1fb45a441dad90dacbef18283 "pdflatex"
-  "main.bbl" 1760917742.22882 8003 5361ebffd641f970b1ab4a8fa77356fe "bibtex main"
-  "main.lof" 1760917809.11854 1897 c0275776caf33a4db4a90bbe1296172a "pdflatex"
-  "main.lot" 1760917809.11859 2089 5b2c51fc43de229d9ba8725dac8191b1 "pdflatex"
-  "main.out" 1760917809.11792 15347 847e13803a1c9f8e909cce590cfae47f "pdflatex"
+  "main.aux" 1760943731.25853 25636 9ddeee3028ddbd5ac540b99f805b6f24 "pdflatex"
+  "main.bbl" 1760943192.40192 8003 5361ebffd641f970b1ab4a8fa77356fe "bibtex main"
+  "main.lof" 1760943731.2628 1897 eb7111c9709ae60b8fd4a3d5c929791c "pdflatex"
+  "main.lot" 1760943731.26293 2089 aa88b5ca31e57b4339ed0a7e3b26b157 "pdflatex"
+  "main.out" 1760943731.26241 15347 847e13803a1c9f8e909cce590cfae47f "pdflatex"
   "main.tex" 1760917726.60359 3169 fd609149b703a3e0c302427ca32b1124 ""
-  "main.toc" 1760917809.11847 7559 8f2f3bc0326ae19d074d14cb2afc06af "pdflatex"
+  "main.toc" 1760943731.26276 7562 071a996666648a2b78787dd9a5adcaf8 "pdflatex"
   "sections/abstract.tex" 1760903825.13779 2641 4cdce00114901fc07889cb6dcc9bf42b ""
   "sections/appendix.tex" 1758158069.50769 15473 1598b593834e4f0955d9e723971d2ddd ""
   "sections/conclusion.tex" 1758134807.45053 3093 127c3665e079a3b0f2328af053516814 ""
   "sections/data.tex" 1758143963.45025 17463 d38fdd1142a9c8e6924fc0c4d9a645f1 ""
   "sections/discussion.tex" 1758173533.19584 5151 19217cb550c1dd96fa211f972c7849fe ""
   "sections/introduction.tex" 1760917794.17822 8058 da32dda21ae637c5b7c349f61494450c ""
-  "sections/literature-review.tex" 1758134807.45147 5845 4826c26ca223a78c4477619127a0ef1e ""
-  "sections/methodology.tex" 1758137354.78355 9276 e553cddb3cfa80760098426ea5af6d7d ""
-  "sections/results.tex" 1758177969.45743 18490 744e4be3960fa50f6f61b511f5d7aeeb ""
+  "sections/literature-review.tex" 1760942894.31825 6848 b17eb13c6b2a5485b97bee74363443ea ""
+  "sections/methodology.tex" 1760943177.01943 10580 35fb57580a48de5de31c1d2ef23d1218 ""
+  "sections/results.tex" 1760943716.21219 19948 514346b6216133bf620e4d28bb658607 ""
   "sections/tittlepage.tex" 1760905371.12646 1622 807cff1837766d66fbe2866b0cff7276 ""
   (generated)
   "main.aux"

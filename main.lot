@@ -1,18 +1,18 @@
-\contentsline {table}{\numberline {1}{\ignorespaces Final dataset of Economic Variables (1978--1992) ( 15 year)}}{16}{table.caption.3}%
-\contentsline {table}{\numberline {2}{\ignorespaces Model Components: Objectives, Mechanisms, Outputs, and Trade-offs}}{28}{table.caption.11}%
-\contentsline {table}{\numberline {3}{\ignorespaces Model Performance Comparison}}{28}{table.caption.12}%
-\contentsline {table}{\numberline {4}{\ignorespaces Quantitative Policy Impact Results: Causal Effects of Tax and VAT Scenarios on Firm Survival}}{30}{table.caption.14}%
-\contentsline {table}{\numberline {5}{\ignorespaces Summary of Key Research Findings}}{30}{table.caption.15}%
-\contentsline {table}{\numberline {6}{\ignorespaces Time Series Cross-Validation Performance Metrics}}{32}{table.caption.20}%
-\contentsline {table}{\numberline {7}{\ignorespaces Residual Diagnostics and Prediction Interval Analysis for Hybrid Model}}{33}{table.caption.21}%
-\contentsline {table}{\numberline {8}{\ignorespaces Model Stability Across Time Periods}}{33}{table.caption.22}%
-\contentsline {table}{\numberline {9}{\ignorespaces Sensitivity Analysis to Input Perturbations}}{33}{table.caption.23}%
-\contentsline {table}{\numberline {10}{\ignorespaces Causal forest feature importance}}{44}{table.caption.25}%
-\contentsline {table}{\numberline {11}{\ignorespaces causal\_forest\_heterogeneous\_effects}}{44}{table.caption.26}%
-\contentsline {table}{\numberline {12}{\ignorespaces DML Feature Importance}}{45}{table.caption.27}%
-\contentsline {table}{\numberline {13}{\ignorespaces DML Heterogeneous Effects}}{45}{table.caption.28}%
-\contentsline {table}{\numberline {14}{\ignorespaces Hybrid Economic Forecasts (2023--2027)}}{45}{table.caption.29}%
-\contentsline {table}{\numberline {15}{\ignorespaces LSTM forecasts}}{45}{table.caption.30}%
-\contentsline {table}{\numberline {16}{\ignorespaces Policy Impact Summary}}{46}{table.caption.31}%
-\contentsline {table}{\numberline {17}{\ignorespaces Scenario-based Economic Forecasts (2023--2027) under Different Policy Regimes}}{47}{table.caption.32}%
+\contentsline {table}{\numberline {1}{\ignorespaces Final dataset of Economic Variables (1978--1992) ( 15 year)}}{17}{table.caption.3}%
+\contentsline {table}{\numberline {2}{\ignorespaces Model Components: Objectives, Mechanisms, Outputs, and Trade-offs}}{31}{table.caption.11}%
+\contentsline {table}{\numberline {3}{\ignorespaces Model Performance Comparison}}{31}{table.caption.12}%
+\contentsline {table}{\numberline {4}{\ignorespaces Quantitative Policy Impact Results: Causal Effects of Tax and VAT Scenarios on Firm Survival}}{33}{table.caption.14}%
+\contentsline {table}{\numberline {5}{\ignorespaces Summary of Key Research Findings}}{33}{table.caption.15}%
+\contentsline {table}{\numberline {6}{\ignorespaces Time Series Cross-Validation Performance Metrics}}{35}{table.caption.20}%
+\contentsline {table}{\numberline {7}{\ignorespaces Residual Diagnostics and Prediction Interval Analysis for Hybrid Model}}{36}{table.caption.21}%
+\contentsline {table}{\numberline {8}{\ignorespaces Model Stability Across Time Periods}}{36}{table.caption.22}%
+\contentsline {table}{\numberline {9}{\ignorespaces Sensitivity Analysis to Input Perturbations}}{36}{table.caption.23}%
+\contentsline {table}{\numberline {10}{\ignorespaces Causal forest feature importance}}{47}{table.caption.25}%
+\contentsline {table}{\numberline {11}{\ignorespaces causal\_forest\_heterogeneous\_effects}}{47}{table.caption.26}%
+\contentsline {table}{\numberline {12}{\ignorespaces DML Feature Importance}}{48}{table.caption.27}%
+\contentsline {table}{\numberline {13}{\ignorespaces DML Heterogeneous Effects}}{48}{table.caption.28}%
+\contentsline {table}{\numberline {14}{\ignorespaces Hybrid Economic Forecasts (2023--2027)}}{48}{table.caption.29}%
+\contentsline {table}{\numberline {15}{\ignorespaces LSTM forecasts}}{48}{table.caption.30}%
+\contentsline {table}{\numberline {16}{\ignorespaces Policy Impact Summary}}{49}{table.caption.31}%
+\contentsline {table}{\numberline {17}{\ignorespaces Scenario-based Economic Forecasts (2023--2027) under Different Policy Regimes}}{50}{table.caption.32}%
 \contentsfinish 
